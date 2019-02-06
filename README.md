@@ -1,11 +1,13 @@
 # AngularActivityOne
 
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+
+
 Activité 1 du cours Angular d'OpenClassrooms: blog.
 
 ## Run `npm install` après avoir cloné le repertoire.
 
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
 
 ## Development server
 
